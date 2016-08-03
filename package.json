@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "colors": "*",
-    "event-pubsub": "^2.0.0",
+    "event-pubsub": "git://github.com/overlookdev/event-pubsub.git#conor-unsubStarFix",
     "js-message": "*",
     "js-queue": "^0.1.2",
     "node-cmd": "*"
